@@ -54,4 +54,4 @@ Here is an overview of how to use the Employee Dashboard:
 
 ---
 
-You can adjust and expand upon this template as needed for your specific project.
+
